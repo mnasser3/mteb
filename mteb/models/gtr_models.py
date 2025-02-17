@@ -17,4 +17,5 @@ gtr_t5_xxl = ModelMeta(
     public_training_code=None,
     public_training_data=None,
     training_datasets=None,
+    memory_usage_mb=None
 )
